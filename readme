@@ -1,0 +1,47 @@
+
+K-Nearest Neighbor :
+
+
+The program execution is done by running knn.py using Python3
+
+> python3 knn.py
+
+The program will ask for the following input paramters to be supplied:
+
+Enter the name of the input file :  (text file to be given as input)
+Enter the value of K : (integer value of K)
+
+The performance measures Accuracy , Precision , Recall , F-Measure at the end of 10 folds are printed.
+
+
+
+Naive Bayesian : 
+
+
+The program execution is done by running knn.py using Python3
+
+> python3 naive_bayes.py
+
+The program will ask for the following input paramter to be supplied:
+
+Enter the name of the input file : (text file to be given as input)
+
+
+The performance measures Accuracy , Precision , Recall , F-Measure at the end of 10 folds are printed.
+
+
+
+Decision tree programs execution : 
+
+
+Code for just decision tree is within the file "decisionTree.py"
+It requires no parameter and executes for the command as follows
+>python3 decisionTree.py
+
+Code for random forests is within the file "randomForests.py"
+It requires no parameter and executes for the command as follows
+>python3 randomForests.py
+
+Code for adaptive boosting is within the file "adaBoosting.py"
+It requires no parameter and executes for the command as follows
+>python3 adaBoosting.py
